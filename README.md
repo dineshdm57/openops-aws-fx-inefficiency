@@ -1,4 +1,4 @@
-# OpenOps AWS FX Inefficiency Detector
+# OpenOps AWS FX(INR) inefficiency detector
 
 Detects foreign exchange (FX) inefficiencies in AWS billing using live FX rates and actual INR payment logs.
 
