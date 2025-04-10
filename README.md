@@ -17,7 +17,7 @@ Detects foreign exchange (FX) inefficiencies in AWS billing using live FX rates 
 ## File
 
 - `openops-aws-fx-inefficiency-v1.json`  
-  → Import this into [OpenOps](https://openops.dev) as a new workflow
+  → Import this into OpenOps as a new workflow
 
 ---
 
@@ -51,5 +51,5 @@ Detects foreign exchange (FX) inefficiencies in AWS billing using live FX rates 
 
 ## Live FX Rate Source
 
-This workflow uses [https://exchangerate.host](https://exchangerate.host), Free API.
+This workflow uses [https://exchangerate.host](https://exchangerate.host), Free API. Feel free to use the best FX rate API of your choice.
 
