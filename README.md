@@ -51,7 +51,5 @@ Detects foreign exchange (FX) inefficiencies in AWS billing using live FX rates 
 
 ## Live FX Rate Source
 
-This workflow uses [https://exchangerate.host](https://exchangerate.host), a free and no-auth API.
-
-If your network redirects to apilayer or requires a key, change the URL to:
+This workflow uses [https://exchangerate.host](https://exchangerate.host), Free API.
 
